@@ -1,8 +1,7 @@
- # Application Name
- Walrus
- 
+ # WAlrus
+  
 #### Description 
-This is an introduction to jquery.
+This is about an animal being an introduction to jquery subject of my course study.
 
 #### By**
 Dinah A. Eric
